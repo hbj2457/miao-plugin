@@ -20,8 +20,8 @@
 
 
 ```
-// 使用 Gitee
-git clone --depth=1 https://gitee.com/hbj2457/miao-plugin.git plugins/miao-plugin
+// 使用 Github
+git clone --depth=1 https://github.com/hbj2457/miao-plugin.git plugins/miao-plugin
 pnpm install -P
 ```
 
